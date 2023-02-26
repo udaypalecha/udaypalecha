@@ -2,6 +2,8 @@
 <h3 align="center">A Computer Science Engineering Student from India</h3>
 <br>
 
+<img src="./img/Pikachu.webp" align="right" width="200px"></img>
+
 - 🌱 I’m currently learning **Full-Stack Web Developement**
 - 💞️ I’m looking to collaborate on anything free and open source
 - 👨‍💻 All of my projects are available at https://github.com/udaypalecha
