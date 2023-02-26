@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Uday Palecha</h1>
+<h1 align="center">👋🏻Hi, I'm Uday Palecha</h1>
 <h3 align="center">A Computer Science Engineering Student from India</h3>
 <br>
 
@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on anything free and open source
 - 👨‍💻 All of my projects are available at https://github.com/udaypalecha
 - 📧 Reach out to me on udaypalecha@gmail.com
+
+---
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
