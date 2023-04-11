@@ -38,5 +38,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=udaypalecha&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udaypalecha&hide_border=true&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="udaypalecha" /></p>
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=udaypalecha.udaypalecha)
+<br><br><br><br><br><br><br>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=udaypalecha&label=Visitors&color=0e75b6&style=flat" alt="udaypalecha" /></p>
