@@ -1,5 +1,5 @@
 <h1 align="center">👋🏻Hi, I'm Uday Palecha</h1>
-<h3 align="center">A Computer Science Engineering Student from India</h3>
+<h3 align="center">A Computer Science Engineering Student from India 🇮🇳</h3>
 <br>
 
 <img src="./img/Pikachu.webp" align="right" width="200px"></img>
