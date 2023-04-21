@@ -31,12 +31,12 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=udaypalecha&theme=monokai" alt="udaypalecha" width="90%" >
+<img src="https://github-profile-trophy.vercel.app/?username=udaypalecha&theme=monokai" alt="udaypalecha" width="90%" />
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udaypalecha&hide_border=true&show_icons=true&theme=highcontrast&locale=en" alt="udaypalecha"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udaypalecha&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="udaypalecha" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=udaypalecha&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udaypalecha&layout=compact&theme=highcontrast&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/udaypalecha/github-readme-stats)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=udaypalecha.udaypalecha)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udaypalecha&hide_border=true&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="udaypalecha" /></p>
+<br><br><br><br><br><br><br>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=udaypalecha&label=Visitors&color=0e75b6&style=flat" alt="udaypalecha" /></p>
