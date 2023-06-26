@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Developement**
 - 💞️ I’m looking to collaborate on anything free and open source
-- 👨‍💻 All of my projects are available at https://github.com/udaypalecha
+- 👨‍💻 All of my projects are available [here](https://github.com/udaypalecha)
 
 ---
 
